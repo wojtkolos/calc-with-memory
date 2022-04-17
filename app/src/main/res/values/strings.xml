@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calc-with-memory-by-Wojtkolos</string>
+    <string name="clear_msg">Removed</string>
+    <string name="result" />
+    <string name="apply">APPLY</string>
+    <string name="enable">Enable</string>
+    <string name="number_format">Number format</string>
+    <string name="integer">Integer</string>
+    <string name="double1">Double</string>
+    <string name="numberFormatKey">format</string>
+
+    <string name="percentage">%</string>
+    <string name="root">√</string>
+    <string name="square">x²</string>
+    <string name="fraction">⅟x</string>
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="backspace">⌫</string>
+    <string name="division">÷</string>
+    <string name="plus_minus">±</string>
+    <string name="comma">,</string>
+    <string name="equal">＝</string>
+    <string name="addition">+</string>
+    <string name="subtraction">−</string>
+    <string name="multiplication">×</string>
+
+    <string name="value_9">9</string>
+    <string name="value_8">8</string>
+    <string name="value_7">7</string>
+    <string name="value_6">6</string>
+    <string name="value_5">5</string>
+    <string name="value_4">4</string>
+    <string name="value_3">3</string>
+    <string name="value_2">2</string>
+    <string name="value_1">1</string>
+    <string name="value_0">0</string>
+</resources>
